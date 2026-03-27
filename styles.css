@@ -2,3 +2,61 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: gray;
+}
+
+
+#h1 {
+    color: pink;
+}
+
+.p {
+   color: yellow;
+}
+
+.h2 {
+    background-color: green;
+}
+
+.p {
+   background-color: green;
+    width: 100px;
+}
+
+.p {
+   background-color: blue;
+    width: 50px;
+   padding: 20px;
+}
+
+
+.h2 {
+    background-color: black;
+}
+
+.ul {
+    border: 2px solid gray;
+    margin: 100px;
+}
+
+img {
+    width: 200px;
+   height: 200px;
+   padding: 50px;
+   background-color: gray;
+   border: 2px solid navy;
+   margin: 20px;
+
+
+
+
+
+
+
+
+
+    
+
+
+
