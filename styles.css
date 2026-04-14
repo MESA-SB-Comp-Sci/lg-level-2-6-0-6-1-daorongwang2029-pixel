@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
 }
-.tittle{
+h1{
     background-color: pink;
-    color:white;
+    color: white
 }
 
 .b{
@@ -35,9 +35,9 @@
     border-color:orange;
 }
 
-.p4{
+p{
     background-color: gray;
-    color:white;
+    color: white;
 }
 
 
